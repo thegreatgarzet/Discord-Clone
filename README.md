@@ -2,6 +2,6 @@
 
 Estou utilizando React e Tailwind para criar uma interface similar a do Discord.
 
-##Sobre
+## Sobre
 
 Projeto feito para estudar mais sobre react.
